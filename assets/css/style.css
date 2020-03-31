@@ -1,0 +1,38 @@
+body {
+	background-image: url("../images/wallpaper.jpg");
+    font-family: "Lucida Console", Monaco, monospace;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+button, div, form, input {
+	margin: 25px;
+}
+
+img {
+	max-width: 200px;
+	max-height: 200px;
+}
+
+label {
+    color: #fff;
+}
+
+.btn-default {
+    color: #000;
+    font-size: large;
+}
+
+
+
+.holder {
+    float: left;
+}
+
+.header {
+    text-align: center;
+    color: white;
+    padding: 0;
+
+}
